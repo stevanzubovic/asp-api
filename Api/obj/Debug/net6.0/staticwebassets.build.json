@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "CaLshmQWfRSP8jEAo/qnbsAF4mthYDWJCMXJRSNRK+Y=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "C:\\Users\\38164\\source\\repos\\Library\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

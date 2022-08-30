@@ -49,7 +49,7 @@ namespace EfDataAccess
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-PUDD02G\SQLEXPRESS;Initial Catalog=NeatReads;Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=.\SQLEXPRESS;Initial Catalog=NeatReads;Integrated Security=True");
         }
 
         public DbSet<Book> Books { get; set; }

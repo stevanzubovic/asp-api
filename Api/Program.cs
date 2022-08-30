@@ -40,7 +40,7 @@ builder.Services.AddTransient<IApplicationActor>(x =>
         {
             Id = 0,
             Identity = "Unauthorised actor",
-            AllowedUseCases = new List<int> { 13, 9, 6, 12, 21 }
+            AllowedUseCases = new List<int> { 13, 9, 6, 12, 21, 23, 29, 24, 28, 5, 12, 8, 6, 13 }
         };
 
         return unauthorisedUser;

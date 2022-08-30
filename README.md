@@ -36,8 +36,15 @@ Neat Reads
 ---
  &nbsp;
 
-3. Svi korisnici imaju mogućnost registracije a registrovani mogućnost logovanja. Za ne  autentifikovanje korisnike postoje mogućnosti pretrage knjiga, njihovih autora i utisaka  korisnika aplikacije. Korisnici sa odgovarajućim privilegijama mogu postavljati svoje   utiske.
- Korisnik "admin" ima sva prava u aplikaciji dok korisnik "user" ima samo prava pretrage i	 postavljanja utisaka. admin password: admin12345, user password: user12345.
+3. Svi korisnici imaju mogućnost registracije a registrovani mogućnost logovanja.
+
+ Za neautentifikovane korisnike postoje mogućnosti pretrage knjiga, njihovih autora i utisaka 
+
+korisnika aplikacije. Korisnici sa odgovarajućim privilegijama mogu postavljati svoje   utiske.
+
+ Korisnik "admin" ima sva prava u aplikaciji dok korisnik "user" ima samo prava pretrage i 
+
+postavljanja utisaka. admin password: admin12345, user password: user12345.
 
 4. Baza podataka:
  

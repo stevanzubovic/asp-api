@@ -16,7 +16,8 @@ __Sadržaj__
 Neat Reads
 
 1. Tema Projekta :
- Projekat predstavlja sistem za agregaciju knjiga i platformu na kojoj se one mogu oceniti.
+
+ Projekat predstavlja sistem za agregaciju knjiga i platformu na kojoj se mogu ostaviti utisci o njima.
 
 
 
@@ -36,17 +37,19 @@ Neat Reads
 ---
  &nbsp;
 
-3. Svi korisnici imaju mogućnost registracije a registrovani mogućnost logovanja.
+3. Opis 
 
- Za neautentifikovane korisnike postoje mogućnosti pretrage knjiga, njihovih autora i utisaka 
+Svi korisnici imaju mogućnost registracije a registrovani mogućnost logovanja.
 
- korisnika aplikacije. Korisnici sa odgovarajućim privilegijama mogu postavljati svoje   utiske.
+Za neautentifikovane korisnike postoje mogućnosti pretrage knjiga, njihovih autora i utisaka 
 
- Korisnik "admin" ima sva prava u aplikaciji dok korisnik "user" ima samo prava pretrage i 
+korisnika aplikacije. Korisnici sa odgovarajućim privilegijama mogu postavljati svoje   utiske.
 
- postavljanja utisaka. admin password: admin12345, user password: user12345.
+Korisnik "admin" ima sva prava u aplikaciji dok korisnik "user" ima samo prava pretrage i 
+
+postavljanja utisaka. admin password: admin12345, user password: user12345.
 
 4. Baza podataka:
  
- ![Baza podataka]()
+ ![Baza podataka](https://github.com/stevanzubovic/asp-api/blob/main/database_diagram.jpg)
 

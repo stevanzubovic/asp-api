@@ -44,9 +44,9 @@ Za neautentifikovane korisnike postoje mogućnosti pretrage knjiga, njihovih aut
 
 drugih korisnika aplikacije. Korisnici sa odgovarajućim privilegijama mogu postavljati svoje   utiske.
 
-Korisnik "admin" ima sva prava u aplikaciji dok korisnik "user" ima samo prava pretrage i 
+Korisnik "admin1" ima sva prava u aplikaciji dok korisnik "user" ima samo prava pretrage i 
 
-postavljanja utisaka. admin password: admin12345, user password: user12345.
+postavljanja utisaka. admin1 password: admin12345, user password: user12345.
 
 4. Baza podataka:
  

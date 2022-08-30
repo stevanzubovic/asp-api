@@ -20,7 +20,6 @@ Neat Reads
  Projekat predstavlja sistem za agregaciju knjiga i platformu na kojoj se mogu ostaviti utisci o njima.
 
 
-
 2. Funkcionalnosti
 
 * Registracija, login
@@ -43,7 +42,7 @@ Svi korisnici imaju mogućnost registracije a registrovani mogućnost logovanja.
 
 Za neautentifikovane korisnike postoje mogućnosti pretrage knjiga, njihovih autora i utisaka 
 
-korisnika aplikacije. Korisnici sa odgovarajućim privilegijama mogu postavljati svoje   utiske.
+drugih korisnika aplikacije. Korisnici sa odgovarajućim privilegijama mogu postavljati svoje   utiske.
 
 Korisnik "admin" ima sva prava u aplikaciji dok korisnik "user" ima samo prava pretrage i 
 
